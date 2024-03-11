@@ -1,0 +1,52 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto 80px auto;
+    padding: 20px;
+    text-align: center;
+    
+  }
+  
+  .product {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .product h3 {
+    margin-bottom: 10px;
+  }
+  
+  .total {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  
+  .removeButton {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .checkoutButton {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+  
+  .clearButton {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
